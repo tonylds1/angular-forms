@@ -1,0 +1,1 @@
+{"version":3,"file":"group-type.enum.js","sourceRoot":"","sources":["../../src/group/group-type.enum.ts"],"names":[],"mappings":"AAAA,MAAM,CAAN,IAAY,SAGX;AAHD,WAAY,SAAS;IACnB,kCAAgB,OAAO,cAAA,CAAA;IACvB,mCAAiB,WAAW,eAAA,CAAA;GAFlB,SAAS,KAAT,SAAS,QAGpB","sourcesContent":["export enum GroupType {\n  FIELDSET = <any>'group',\n  DATATABLE = <any>'datatable'\n}\n"]}

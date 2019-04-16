@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{"MaxLength":{"__symbolic":"class","extends":{"__symbolic":"reference","module":".","name":"Validation","line":2,"character":31},"members":{"__ctor__":[{"__symbolic":"constructor","parameters":[{"__symbolic":"reference","name":"string"},{"__symbolic":"reference","name":"number"}]}]}}}}]

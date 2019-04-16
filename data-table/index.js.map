@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../src/data-table/index.ts"],"names":[],"mappings":"AAAA,cAAc,wBAAwB,CAAC;AACvC,cAAc,qBAAqB,CAAC","sourcesContent":["export * from './data-table.component';\nexport * from './data-table.module';\n"]}

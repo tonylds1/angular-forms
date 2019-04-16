@@ -1,0 +1,1 @@
+{"version":3,"file":"option.js","sourceRoot":"","sources":["../../src/question/option.ts"],"names":[],"mappings":"","sourcesContent":["export interface Option {\n\n  value: string;\n  description: string;\n}\n"]}

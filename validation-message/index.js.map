@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../src/validation-message/index.ts"],"names":[],"mappings":"AAAA,cAAc,gCAAgC,CAAC;AAC/C,cAAc,6BAA6B,CAAC","sourcesContent":["export * from './validation-message.component';\nexport * from './validation-message.module';\n"]}
